@@ -1,1 +1,1 @@
-# fullstack-react-native
+# Fullstack react-native demo
